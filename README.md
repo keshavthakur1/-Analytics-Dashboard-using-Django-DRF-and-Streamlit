@@ -72,7 +72,7 @@ For any questions or suggestions, reach out to:
 
 🔗 GitHub: @keshavthakur1
 
-This README.md will make your GitHub repo professional and well-structured! 🚀 Let me know if you need any modifications before uploading. 😊
+This README.md will make your GitHub repo professional and well-structured! 🚀
 
 
 
